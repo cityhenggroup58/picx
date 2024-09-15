@@ -81,3 +81,13 @@ PicX 的更新迭代依靠作者工作之外的时间，维护不易，如果对
 **[AGPL-3.0](https://github.com/XPoet/picx/blob/master/LICENSE)** 
 
 Copyright © 2020-Present XPoet
+
+这个是方便上传图片的工具，如果后来的图片弄好了，就可以在这里上传
+https://cityhenggroup58.github.io/picx/#/upload
+token: <token>
+
+用法：
+1. 点击左手边的第一个button，输入token，点击一键配置
+2. 在同个页面，选择要上传至的目录，点击确定
+3. 点击左手边的setting button，点击“检测到你的云端仓库。。。” 确定
+4. 点击左手边的上传按钮button，然后就在那里上传图片，就不需要whatsapp 来send 图片了
